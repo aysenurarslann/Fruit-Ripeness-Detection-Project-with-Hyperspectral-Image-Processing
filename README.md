@@ -51,16 +51,5 @@ This project aims to classify fruit ripeness levels using hyperspectral image pr
 ├── README.md                       # Project description
 └── requirements.txt                # Required libraries
 
-## **Installation and Setup**
 
-### Clone the repository:
-
-```bash
-git clone https://github.com/yourusername/hyperspectral-image-processing.git
-cd hyperspectral-image-processing
-
-
-### Install dependencies
-
-pip install -r requirements.txt
 
