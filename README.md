@@ -38,18 +38,8 @@ This project aims to classify fruit ripeness levels using hyperspectral image pr
 4. **Performance Analysis and Visualization:**  
    Visualize the models' performance with confusion matrices and ROC curves to compare results before and after dimensionality reduction.
 
-## **Folder Structure**
 
-```plaintext
-.
-├── data/                           # Directory containing hyperspectral images
-├── models/                         # Directory for storing trained models
-├── src/                            # Source code files
-│   ├── preprocess.py               # Preprocessing scripts (e.g., PCA, CARS)
-│   ├── train_model.py              # Model training and evaluation scripts
-│   └── visualize.py                # Visualization scripts (confusion matrix, ROC curve)
-├── README.md                       # Project description
-└── requirements.txt                # Required libraries
+
 
 
 
